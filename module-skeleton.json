@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-financial-master-data-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-financial-master-data",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-financial-master-data-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/financial-master-data.md",
+  "presentationPlan": "projects/accounting/nextjs/financial-master-data.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
